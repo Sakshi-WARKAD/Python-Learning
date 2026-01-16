@@ -85,6 +85,6 @@ b = int(input("Enter the second number:"))
 
 print(a>=b)
 
-print("Average is:", avg)
+
 
 
