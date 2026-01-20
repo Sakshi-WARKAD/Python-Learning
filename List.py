@@ -7,6 +7,7 @@ list = ["Krishna", 12.45 , "Samiksha", 45, "Kamyar", "Haniya"]
 print(list)
 
 list[2] = "Roshi"
+list[4] = "Raha"
 print(list)
 
 """str = "Hello"
