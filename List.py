@@ -25,3 +25,4 @@ print(list)
 # List slicing
 
 print(list[1:3])
+print(list[:4])
